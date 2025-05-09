@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="alfatihah" tvg-name="Surah Al Fatihah" group-title="Quran",Surah Al Fatihah
+http://192.168.1.150:80/surah_alfatihah/stream.m3u8
+#EXTINF:-1 tvg-id="surah_albakarah" tvg-name="Surah Al Bakarah" group-title="Quran",Surah Al Bakarah
+http://192.168.1.150:80/surah_albakarah/stream.m3u8
+#EXTINF:-1 tvg-id="surah_alimran" tvg-name="Surah Al-Imran" group-title="Quran",Surah Al-Imran
+http://192.168.1.150:80/surah_alimran/stream.m3u8
+#EXTINF:-1 tvg-id="surah_annisaa" tvg-name="Surah An-Nisa'" group-title="Quran",Surah An-Nisa'
+http://192.168.1.150:80/surah_annisaa/stream.m3u8
+#EXTINF:-1 tvg-id="surah_almaidah" tvg-name="Surah Al Ma'idah" group-title="Quran",Surah Al Ma'idah
+http://192.168.1.150:80/surah_almaidah/stream.m3u8
+#EXTINF:-1 tvg-id="surah_alanaam" tvg-name="Surah Al Ana'am" group-title="Quran",Surah Al Ana'am
+http://192.168.1.150:80/surah_alanaam/stream.m3u8
+#EXTINF:-1 tvg-id="surah_alaraf" tvg-name="Surah Al A'raf" group-title="Quran",Surah Al A'raf
+http://192.168.1.150:80/surah_alaraf/stream.m3u8
+#EXTINF:-1 tvg-id="surah_alanfal" tvg-name="Surah Al Anfal" group-title="Quran",Surah Al Anfal
+http://192.168.1.150:80/surah_alanfal/stream.m3u8
+#EXTINF:-1 tvg-id="surah_attawbah" tvg-name="Surah At-tawbah" group-title="Quran",Surah At-tawbah
+http://192.168.1.150:80/surah_attawbah/stream.m3u8
+#EXTINF:-1 tvg-id="surah_yunus" tvg-name="Surah Yunus" group-title="Quran",Surah Yunus
+http://192.168.1.150:80/surah_yunus/stream.m3u8
+#EXTINF:-1 tvg-id="surah_hud" tvg-name="Surah Hud" group-title="Quran",Surah Hud
+http://192.168.1.150:80/surah_hud/stream.m3u8
+#EXTINF:-1 tvg-id="news" tvg-name="AlekhbariahSY" group-title="News",AlekhbariahSY
+http://192.168.1.150:80/youtube/news/stream.m3u8
+
+#EXTINF:-1 tvg-id="riyadalsaliihin" tvg-name="Riyad Al-Salhin" group-title="Dini",Riyad Al-Salhin
+https://176.65.146.227/riyad/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",Al Quran Al Kareem
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=0bf016276fff7c3902e86d21acb77402
 #EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sunaa.jpg?v=7",Al Sunnah (Medina)
