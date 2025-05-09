@@ -25,7 +25,7 @@ http://192.168.1.150:80/surah_hud/stream.m3u8
 http://192.168.1.150:80/youtube/news/stream.m3u8
 
 #EXTINF:-1 tvg-id="riyadalsaliihin" tvg-name="Riyad Al-Salhin" group-title="Dini",Riyad Al-Salhin
-https://176.65.146.227/riyad/tracks-v1a1/mono.m3u8
+http://176.65.146.227/riyad/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=7",Al Quran Al Kareem
 https://www.elahmad.com/tv/m3u8/online_live_14_tv.m3u8?id=qoran_tv&t=0bf016276fff7c3902e86d21acb77402
